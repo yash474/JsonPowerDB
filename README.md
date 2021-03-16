@@ -1,7 +1,7 @@
 # JsonPowerDB
 ### Json Power DB is totally free ,[Documentation Link](http://login2explore.com/jpdb/docs.html)
 
-## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations (like Insert ,Delete ,Update ,Show)." 
+### "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations (like Insert ,Delete ,Update ,Show).
 
 ### About JsonPowerDB:
 
@@ -16,5 +16,14 @@ Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, th
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
+
+### Screenshots:
+
+![Dashboard](https://github.com/yash474/JsonPowerDB/blob/gh-pages/dashboard.png)
+
+![Index Page](https://github.com/yash474/JsonPowerDB/blob/gh-pages/index%20screne.png)
+
+![Visualize](https://github.com/yash474/JsonPowerDB/blob/gh-pages/main%20dashboard.png)
+
 
 

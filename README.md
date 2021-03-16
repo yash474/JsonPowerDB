@@ -1,5 +1,5 @@
 # JsonPowerDB
-### Json Power DB is totally free ,[Documentation Link](http://login2explore.com/jpdb/docs.html)
+### Json Power DB is totally free ,  [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
 #### "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations (like Insert ,Delete ,Update ,Show).
 
@@ -20,14 +20,14 @@ Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, th
 
 ### Examples of use:
 
- ######All Dynamic web applications.
-    *All Mobile applications that require backend database.
-    *Session Caching.
-    *Page Caching.
-    *Existing Database applications to improve their reporting / analytics performance.
-    *Best suited as backend Database for IoT.
-    *Live HTML templates / themes.
-    *Any software application that needs backend database.
+ ###### All Dynamic web applications.
+    -All Mobile applications that require backend database.
+    -Session Caching.
+    -Page Caching.
+    -Existing Database applications to improve their reporting / analytics performance.
+    -Best suited as backend Database for IoT.
+    -Live HTML templates / themes.
+    -Any software application that needs backend database.
     
     
 
